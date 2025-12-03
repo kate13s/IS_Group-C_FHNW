@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Kate Johnson",
+    "email": "kate@example.com",
+    "phone": "+41 79 123 45 67",
+    "loyalty_points": 120
+  },
+  {
+    "id": 2,
+    "name": "Michael Brown",
+    "email": "michael@example.com",
+    "phone": "+41 78 987 65 43",
+    "loyalty_points": 80
+  },
+  {
+    "id": 3,
+    "name": "Anna Fischer",
+    "email": "anna@example.com",
+    "phone": "+41 76 555 11 22",
+    "loyalty_points": 200
+  }
+]
