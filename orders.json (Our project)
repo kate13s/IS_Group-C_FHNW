@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "customer_name": "Kate Johnson",
+    "service_type": "Gardening",
+    "description": "Trim bushes and clean backyard",
+    "price": 85.00,
+    "status": "confirmed"
+  },
+  {
+    "id": 2,
+    "customer_name": "Michael Brown",
+    "service_type": "Cleaning",
+    "description": "Full apartment deep cleaning",
+    "price": 150.00,
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "customer_name": "Anna Fischer",
+    "service_type": "Repair",
+    "description": "Fix bathroom sink leak",
+    "price": 120.00,
+    "status": "completed"
+  }
+]
