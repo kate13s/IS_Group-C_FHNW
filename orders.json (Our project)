@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "customer_name": "Kate Johnson",
+    "customer_name": "Sandra Johnson",
     "service_type": "Gardening",
     "description": "Trim bushes and clean backyard",
     "price": 85.00,
